@@ -19,6 +19,8 @@ Zgodnie z wytycznymi z [Uchwały 20/370/2015 Konferencji Episkopatu Polski z dn.
 
 Ten krok jest potrzebny wyłącznie, jeśli chcemy wystąpić z Kościoła w innej parafii niż parafia chrztu (pkt 2 ppkt 2). 
 
+Po świadectwo chrztu nie trzeba przychodzić osobiście - ale warto dowiedzieć się w parafii chrztu np. telefonicznie, czy zgodzą się na wysłanie dokumentu pocztą. Taka praktyka ma czasem miejsce przy okazji np. ślubu. Warto zwrócić uwagę, że na tym etapie może nastąpić próba odwiedzenia od zdobycia zaświadczenia jeśli podamy prawdziwą przyczynę.
+
 ## 2. Przygotowanie oświadczenia
 
 Oświadczenie powinno zawierać (pkt 2):
