@@ -66,6 +66,8 @@ Warto zwrócić uwagę, że rozmowa jest z punktu widzenia procedury kościelnej
 
 Kościół nie wydaje formalnego potwierdzenia wystąpienia z KK, ale na życzenie parafia chrztu może wydać świadectwo chrztu ze stosowną adnotacją (pkt 10-11).
 
+Po otrzymaniu potwierdzenia, warto dodać informację o przebiegu swojej apostazji na mapie apostazji (link w sekcji poniżej).
+
 # Dokumenty
 
 * [Uchwała 20/370/2015 Konferencji Episkopatu Polski z dn. 7 października 2015 r.](dokumenty/dekret_ogolny.pdf)
@@ -76,7 +78,8 @@ Kościół nie wydaje formalnego potwierdzenia wystąpienia z KK, ale na życzen
 Inne, warte zobaczenia źródła to:
 
 * https://apostazja.eu - przydatny generator
-* https://www.apostazja.info
+* https://www.apostazja.info - strona poświęcona apostazji 
+* https://mapaapostazji.pl - mapa parafii z informacjami jak sprawnie przebiega w nich proces
 
 # O tej stronie
 
